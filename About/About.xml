@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Mr Samuel Streamer's ORB</name>
+  <packageId>mss.orb</packageId>
+  <author>Mr Samuel Streamer</author>
+  <supportedVersions>
+    <li>1.4</li>
+  </supportedVersions>
+  <description>
+  Ponder the orb, sweet wizard, and look into the future!
+  </description>
+</ModMetaData>
